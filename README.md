@@ -1,4 +1,4 @@
-# SpringFrameworkBasics
+# Spring Framework Basics
 
 This project showcases the fundamental workings of the Spring Framework in Java. It was developed as part of a code challenge to demonstrate a basic understanding of the Spring Framework and to illustrate key programming paradigms.
 
